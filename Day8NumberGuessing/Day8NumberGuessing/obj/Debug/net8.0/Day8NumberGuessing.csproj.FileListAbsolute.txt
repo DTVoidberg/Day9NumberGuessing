@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\bin\Debug\net8.0\Day8NumberGuessing.exe
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\bin\Debug\net8.0\Day8NumberGuessing.deps.json
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\bin\Debug\net8.0\Day8NumberGuessing.runtimeconfig.json
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\bin\Debug\net8.0\Day8NumberGuessing.dll
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\bin\Debug\net8.0\Day8NumberGuessing.pdb
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\obj\Debug\net8.0\Day8NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\obj\Debug\net8.0\Day8NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\obj\Debug\net8.0\Day8NumberGuessing.AssemblyInfo.cs
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\obj\Debug\net8.0\Day8NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\obj\Debug\net8.0\Day8NumberGuessing.sourcelink.json
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\obj\Debug\net8.0\Day8NumberGuessing.dll
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\obj\Debug\net8.0\refint\Day8NumberGuessing.dll
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\obj\Debug\net8.0\Day8NumberGuessing.pdb
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\obj\Debug\net8.0\Day8NumberGuessing.genruntimeconfig.cache
+C:\Users\David\Desktop\C#MainStudies\Day8NumberGuessing\Day8NumberGuessing\obj\Debug\net8.0\ref\Day8NumberGuessing.dll
